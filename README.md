@@ -76,7 +76,7 @@ Running the Project
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/VisionGuide.git
+git clone https://github.com/thorfinn071/VisionGuide.git
 
 cd VisionGuide
 
