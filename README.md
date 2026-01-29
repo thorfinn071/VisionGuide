@@ -14,7 +14,7 @@ Real Time Object Detection (YOLO)
 
 • Confidence and bounding box size filtering to reduce noise
 
-📏 Distance Estimation (Bounding Box–Based)
+Distance Estimation (Bounding Box–Based)
 
 • The distance is figured out by looking at how big the boxesre in relation to each other. We use the size of these boxes to estimate the distance. The boxes are like frames around objects. We look at how big they appear to be and that helps us estimate the distance of the objects, from us using the relative size of these boxes.
 
