@@ -117,7 +117,7 @@ Developed by a student team as an AI project focused on accessibility and realâ€
 **Contributors:**
 
 * Nurmukhamed Sabit
-* Project collaborator
+* Alizhan Myrazabek
 
 ---
 
