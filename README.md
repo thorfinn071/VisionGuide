@@ -80,7 +80,7 @@ VisionGuide/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/VisionGuide.git
+git clone https://github.com/thorfinn071/VisionGuide.git
 cd VisionGuide
 ```
 
